@@ -92,10 +92,13 @@ This project explored how AI-assisted development can accelerate the journey fro
 
 ---
 
-
   <b>Built with curiosity, AI and a little bit of gold. ✨</b>
 
 </div>
+---
+
+Project Outcome: 
+<img width="769" height="797" alt="Screenshot 2026-11-16 at 2 41 10 PM" src="https://github.com/user-attachments/assets/81368dbc-e1fa-4b0d-870f-430fa320899f" />
 
 ---
 
