@@ -100,6 +100,12 @@ This project explored how AI-assisted development can accelerate the journey fro
 Project Outcome: 
 <img width="769" height="797" alt="Screenshot 2026-11-16 at 2 41 10 PM" src="https://github.com/user-attachments/assets/81368dbc-e1fa-4b0d-870f-430fa320899f" />
 
+<img width="766" height="758" alt="Screenshot 2026-11-16 at 2 41 17 PM" src="https://github.com/user-attachments/assets/f9e682c1-4759-4b3e-9c0b-297d65e3ddbd" />
+
+<img width="735" height="643" alt="Screenshot 2026-11-16 at 2 41 31 PM" src="https://github.com/user-attachments/assets/9700bd39-7e8a-411c-94e7-412d701827c4" />
+
+<img width="766" height="672" alt="Screenshot 2026-11-16 at 2 41 25 PM" src="https://github.com/user-attachments/assets/ddcd4879-fdbd-4d38-a551-52548d4fefe6" />
+
 ---
 
 <sub>Disclaimer: This project is for educational and simulation purposes only. It does not execute real trades or provide financial advice. Financial data should be independently verified.</sub>
